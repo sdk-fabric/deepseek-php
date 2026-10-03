@@ -1,0 +1,6 @@
+{
+  "name": "sdkfabric/deepseek",
+  "description": "Deepseek PHP SDK managed by SDK Fabric",
+  "namespace": "SdkFabric\\Deepseek",
+  "website": "https://sdk-fabric.org"
+}
